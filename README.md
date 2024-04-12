@@ -1,8 +1,8 @@
-<center><h1>CMD-IP</h1></center>
+<h1>CMD-IP</h1>
 
-this is a simple cmd application **writing in golang** form retrieve ips and host names from given url
+This is a simple cmd application **writing in golang** to retrieve ips and host names from given url
 
-comand example to get ips from github.com:
+Command example to get ips from github.com:
 
 ```
 go run main.go ip --host github.com
