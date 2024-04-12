@@ -1,6 +1,6 @@
 <center><h1>CMD-IP</h1></center>
 
-this is a simple cmd application form retrieve ips and host names from given url
+this is a simple cmd application **writing in golang** form retrieve ips and host names from given url
 
 comand example to get ips from github.com:
 
